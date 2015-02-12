@@ -12,4 +12,3 @@ function sfplugin_sayHello() {
 }
 
 add_shortcode('say_hello', 'sfplugin_sayHello');
-
